@@ -1,0 +1,95 @@
+//bootstrap variable customization
+$font-family-sans-serif: Roboto, -apple-system;
+$grid-gutter-width:	40px;
+$headings-font-family: 'Roboto Slab';
+$primary: #007ae2;
+
+//include bootstrap
+@import '../node_modules/bootstrap/scss/bootstrap.scss';
+
+//gray header
+header {
+	h1 {
+		a {
+			color: inherit;
+		}
+		small {
+			display: block;
+			font-family: $font-family-sans-serif;
+			font-weight: normal;
+			font-size: 60%;
+		}
+	}
+}
+
+//wider gutters on large screens
+@include media-breakpoint-up(lg) {
+	.main-row {
+		margin-left: -40px !important;
+		margin-right: -40px !important;
+	}
+}
+
+main, aside {
+	a {
+		color: $primary; 
+		&:hover {
+			color: lighten($primary, 20%);
+		}
+	}	
+	h4, .h4 {
+		font-size: 1.25rem;
+	}
+	@include media-breakpoint-up(lg) {
+		padding-left: 40px !important;
+		padding-right: 40px !important;
+	}
+}
+
+main {
+
+	blockquote {
+		border-left: 4px solid $gray-400;
+		padding-left: 15px; 
+	}
+
+	.wp-block-image.alignright {
+		float: right;
+		margin: 0 0 20px 20px;
+	}
+
+	h4 {
+		margin-top: 1.75rem;
+	}
+
+	.post {
+		> *:last-child {
+			margin-bottom: 0;
+		}
+		& + .post {
+			border-top: 1px solid $gray-300;
+			padding-top: 1.5rem;
+		}
+	}
+
+	//bothering me
+	.form-check input { margin-top: 2.5px; }
+
+}
+
+aside {
+	.widget {
+		ul {
+			list-style-type: none;
+			padding-left: 0;
+			color: $gray-500;
+			li {
+				padding: 4px 0;
+				.badge { margin-top: 3px; }
+				& + li {
+					border-top: 1px solid $gray-300;
+				}
+			}
+		}
+	}
+}

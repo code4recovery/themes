@@ -1,0 +1,7 @@
+.editor-post-title__block .editor-post-title__input, .wp-block-heading {
+	font-family: 'Roboto Slab';
+}
+
+.edit-post-visual-editor, .edit-post-visual-editor p {
+	font-family: Roboto, -apple-system;
+}

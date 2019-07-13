@@ -1,0 +1,22 @@
+.meta_form_row {
+	overflow: auto;
+}
+
+.meta_form_row + .meta_form_row {
+	margin-top: 20px;
+}
+
+.meta_form_row label, .meta_form_row input {
+	float: left;
+	box-sizing: border-box;
+	margin: 0;
+}
+
+.meta_form_row label {
+	width: 12%;
+	line-height: 25px;
+}
+
+.meta_form_row input {
+	width: 88%;
+}
