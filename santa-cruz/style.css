@@ -1,0 +1,158 @@
+/*
+Theme Name:   Santa Cruz
+Theme URI:    https://github.com/meeting-guide/santa-cruz
+Description:  Child theme for Twenty Fourteen
+Template:     twentyfourteen
+Version:      1.0.0
+Text Domain:  santa-cruz
+*/
+
+.site {
+	max-width: 1020px;
+}
+
+.site-header {
+	max-width: 1020px;
+}
+
+@media screen and (min-width: 1010px) {
+ 
+    .archive-header,
+ 
+    .comments-area,
+ 
+    .image-navigation,
+ 
+    .page-header,
+ 
+    .page-content,
+ 
+    .post-navigation,
+ 
+    .site-content .entry-header,
+ 
+    .site-content .entry-content,
+ 
+    .site-content .entry-summary,
+ 
+    .site-content footer.entry-meta {
+ 
+        padding-left: 55px;
+ 
+     }
+ 
+}
+ 
+.site-content .entry-header,
+ 
+.site-content .entry-content,
+ 
+.site-content .entry-summary,
+ 
+.site-content .entry-meta,
+ 
+.page-content {
+ 
+        max-width: 90%;
+ 
+}
+ 
+.comments-area {
+ 
+        max-width: 90%;
+ 
+}
+ 
+.post-navigation, .image-navigation {
+ 
+        max-width: 90%;
+ 
+}
+ 
+.site:before,
+ 
+#secondary {
+ 
+        width: 0;
+ 
+        display: none;
+ 
+     }
+ 
+.featured-content {
+ 
+        padding-left: 0;
+ 
+}
+ 
+.site-content, .site-main .widecolumn {
+ 
+        margin-left: 0;
+ 
+}
+ 
+.hentry {
+ 
+        max-width: 90%;
+ 
+}
+ 
+.post-thumbnail img {
+ 
+        width: 90%;
+ 
+        }
+.site {
+ 
+        margin: 0 auto;
+ 
+}
+
+
+/* sidebar widgets */
+.widget_tsml_widget_upcoming table thead { display: none; }
+.widget_tsml_widget_upcoming table {
+	border: 0;
+}
+.widget_tsml_widget_upcoming table tbody tr { 
+	display: block;
+	padding: 6px 6px 6px 80px;
+	position: relative;
+	border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+.widget_tsml_widget_upcoming table tbody td { 
+	display: block;
+	border: 0;
+}
+.widget_tsml_widget_upcoming table tbody td a { 
+	font-weight: 700;
+}
+.widget_tsml_widget_upcoming table tbody td a small { 
+	color: #999;
+	margin-left: 4px;
+}
+.widget_tsml_widget_upcoming table tbody td a small:before { 
+	content: " / ";
+	margin-right: 3px;
+}
+.widget_tsml_widget_upcoming table tbody td.time { 
+	position: absolute;
+	left: 0;
+}
+.widget_tsml_widget_upcoming p a {
+	font-size: 15px;
+	font-weight: 700;
+}
+ol.tribe-list-widget h4.tribe-event-title { margin-top: 0; }
+
+
+/* boosting the size of the phone number */
+#text-5 .textwidget a {
+	text-align: center;
+	display: block;
+	font-size: 24px;
+	font-weight: bold;
+}
+
+/* hide site title */
+.site-title { display: none; }
