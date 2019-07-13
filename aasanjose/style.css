@@ -1,0 +1,176 @@
+/*
+Theme Name: AA San Jose
+Theme URI: https://github.com/meeting-guide/theme
+Author: Santa Clara County Intergroup
+Author URI: https://aasanjose.org/
+Template: twentyfourteen
+Description: Child theme for Twenty Fourteen
+Version: 1.0
+Text Domain: aasanjose
+*/
+
+/*
+accent color: #c48923;
+main blue color: #123569;
+*/
+
+/* main template stuff */
+
+body.single-product #content-sidebar { display: none; }
+body.single-product #content { margin-right: 0; }
+body.single-product .tfwc { max-width: none; margin-right: 0; }
+body.single-product nav.woocommerce-breadcrumb { display: none; }
+body.single-product .nyp label { font-weight: 700; display: block; }
+body.single-product .nyp input#nyp-opc-6815 { width: 100%; margin-bottom: 20px; }
+body.single-product ul.wc-tabs { display: none; }
+body.single-product .woocommerce-Tabs-panel { margin-bottom: 0 !important; }
+body.single-product .woocommerce-Tabs-panel--description h2 { display: none; }
+body.single-product .wccf_grand_total { display: none !important; }
+body.single-product .wccf_field_container { margin-bottom: 20px; }
+body.single-product p#billing_country_field { display: none; }
+body.single-product #payment { margin-bottom: 30px; }
+body.single-product .product-quantity { display: none; }
+body.single-product .col2-set .col-2 { display: none; }
+body.single-product .col2-set .col-1 { width: auto; float: none; }
+body.single-product .select2-selection--single { border-color: rgba(0, 0, 0, 0.1); height: 36px;	 }
+body.single-product .select2-selection--single span { padding: 3px 10px 0; }
+body.single-product .woocommerce-billing-fields h3 { margin-top: 10px; }
+
+abbr.required { text-decoration: none; }
+
+/* custom footer */
+footer .site-info > a { display: none; }
+footer .site-info p:first-child { margin-bottom: 10px; }
+footer .site-info p { margin: 0 40px; text-align: center; }
+footer .site-info p a { text-decoration: underline; }
+
+/* hiding site search because it's confusing, people might expect meeting search here */
+div.search-toggle { display: none; }
+
+/* general cleanup */
+.entry-content { overflow: hidden; }
+.entry-content .edit-link { display: none; }
+.entry-content table { table-layout: fixed; border-spacing: 0; border: 0; }
+.entry-content td { padding: 0; border: 0; }
+.entry-content li + li { margin-top: 15px; }
+
+/* special alert style */
+pre {
+    font-family: inherit;
+    font-size: inherit;
+    background: #fafade;
+    padding: 15px;
+    margin: 0 -15px 24px;
+    border: 1px solid #eee;
+    border-radius: 4px;
+    max-width: none;
+}
+
+/* sidebar widgets */
+a#helpline { text-align: center; display: block; font-size: 30px; }
+
+/* calendar */
+.tribe-events-adv-list-widget .type-tribe_events { margin-bottom: 10px; }
+.tribe-events-adv-list-widget .tribe-mini-calendar-event {
+	border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+	padding: 5px 0 8px;
+	margin-bottom: 0;
+}
+.tribe-mini-calendar-event .list-info h2 { margin: 0 0 4px; }
+.tribe-events-adv-list-widget .tribe-events-location { padding: 0; }
+.tribe-events-adv-list-widget .list-date, .tribe-events-adv-list-widget .list-info {
+	margin-top: 0;
+}
+.tribe-events-adv-list-widget .tribe-events-widget-link {
+	margin-top: 13px;
+	font-size: 15px;
+	font-weight: 700;
+}
+
+/* featured events overrides */
+
+.tribe-events-adv-list-widget .tribe-event-featured .tribe-mini-calendar-event .list-date {
+	background-color: #123569;	
+}
+
+#tribe-events-content table.tribe-events-calendar .type-tribe_events.tribe-event-featured {
+	background-color: #123569;
+}
+
+.tribe-events-adv-list-widget .tribe-event-featured, .tribe-mini-calendar-list-wrapper .tribe-event-featured {
+	padding-bottom: 0;
+}
+
+.tribe-events-adv-list-widget .tribe-event-featured .tribe-mini-calendar-event, .tribe-mini-calendar-list-wrapper .tribe-event-featured .tribe-mini-calendar-event {
+	background-color: inherit;
+	padding-bottom: 13px;
+}
+
+.tribe-events-adv-list-widget .tribe-event-featured .list-info, .tribe-mini-calendar-list-wrapper .tribe-event-featured .list-info {
+	padding: 0;
+	width: 80%;
+}
+
+.tribe-events-adv-list-widget .tribe-event-featured .list-date, .tribe-mini-calendar-list-wrapper .tribe-event-featured .list-date {
+	display: block;
+}
+
+.tribe-events-adv-list-widget .tribe-event-featured .tribe-mini-calendar-event .tribe-events-title a, .tribe-mini-calendar-list-wrapper .tribe-event-featured .tribe-mini-calendar-event .tribe-events-title a {
+	color: #a16600;
+}
+
+.tribe-events-adv-list-widget .tribe-event-featured .tribe-mini-calendar-event .tribe-events-title a:hover, .tribe-mini-calendar-list-wrapper .tribe-event-featured .tribe-mini-calendar-event .tribe-events-title a:hover {
+	color: #be831d;
+}
+
+.tribe-events-adv-list-widget .tribe-event-featured .tribe-events-duration, .tribe-events-adv-list-widget .tribe-event-featured .tribe-events-event-meta, .tribe-mini-calendar-list-wrapper .tribe-event-featured .tribe-events-duration, .tribe-mini-calendar-list-wrapper .tribe-event-featured .tribe-events-event-meta {
+	color: inherit;
+}
+
+.tribe-events-adv-list-widget .tribe-event-featured, .tribe-mini-calendar-list-wrapper .tribe-event-featured {
+	color: #767676;
+}
+
+.tribe-events-adv-list-widget .tribe-event-image { display: none; }
+
+/* gravity forms */
+.gform_wrapper, .gform_confirmation_message {
+	background: #f1f1f1;
+	padding: 15px;
+	border: 1px solid #eee;
+	border-radius: 4px;
+	margin-bottom: 20px;
+}
+.gform_wrapper ul { 
+	list-style: none; 
+	margin-left: 0;
+}
+
+.gform_wrapper ul.gform_fields > li {
+	margin-bottom: 20px;
+}
+
+.gform_wrapper input {
+	width: 100%;
+}
+
+.gform_wrapper .gfield_checkbox input, .gform_wrapper .ginput_container_time input {
+	width: auto;
+}
+
+.gform_wrapper .gform_description {
+	font-size: 14px;
+	margin-bottom: 12px;
+	display: block;
+}
+
+.gform_wrapper .field_description_below .gfield_description {
+	padding-top: 2px !important;
+}
+
+.gform_wrapper .gfield_checkbox li input { 
+	margin: -2px 2px 0 0 !important; 
+}
+
+/* woocommerce */
+form.cart input.qty { display: none; }

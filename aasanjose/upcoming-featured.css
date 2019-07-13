@@ -1,0 +1,12 @@
+a.upcoming-featured-event {
+	display: block;
+	text-align: center;
+	color: inherit !important;
+}
+
+a.upcoming-featured-event div.image { 
+	height: 240px;
+	background-size: contain;
+	background-position: center center;
+	background-repeat: no-repeat;
+}
