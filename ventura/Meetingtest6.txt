@@ -1,0 +1,401 @@
+VC_ID	GSO_ID	Name	Type	Location	address	Location notes	Cities	LocZIP	DayName	Time
+AH01	[158567][93][28]	Hope Thru Sharing Group	[H]	New Hope Lutheran Church	 29295 Agoura Rd		Agoura Hills	91301	Sunday	7:30 PM
+AH04	[612905][93][28]	Agoura Morning Fellowship	[H]	New Hope Lutheran Church	 29295 Agoura Rd		Agoura Hills	91301	Every day	7:00 AM
+AH04A	[612905][93][28]	Agoura Morning Fellowship	[H]	New Hope Lutheran Church	 29295 Agoura Rd		Agoura Hills	91301	Sunday	6:45 AM
+AH04B	[612905][93][28]	Agoura Morning Fellowship	[H]	New Hope Lutheran Church	 29295 Agoura Rd		Agoura Hills	91301	Monday	7:00 AM
+AH04C	[612905][93][28]	Agoura Morning Fellowship	[H]	New Hope Lutheran Church	 29295 Agoura Rd		Agoura Hills	91301	Tuesday	7:00 AM
+AH04D	[612905][93][28]	Agoura Morning Fellowship	[H]	New Hope Lutheran Church	 29295 Agoura Rd		Agoura Hills	91301	Wednesday	7:00 AM
+AH04E	[612905][93][28]	Agoura Morning Fellowship	[H]	New Hope Lutheran Church	 29295 Agoura Rd		Agoura Hills	91301	Thursday	7:00 AM
+AH04F	[612905][93][28]	Agoura Morning Fellowship	[H]	New Hope Lutheran Church	 29295 Agoura Rd		Agoura Hills	91301	Friday	7:00 AM
+AH04G	[612905][93][28]	Agoura Morning Fellowship	[H][CH][B]	New Hope Lutheran Church	 29295 Agoura Rd		Agoura Hills	91301	Saturday	7:00 AM
+AH05	[179044][93][28]	Welcome Newcomers		Gateway Church	 29646 Agoura Rd		Agoura Hills	91301	Tuesday	6:00 PM
+AH09	[677087][93][28]	The Best of the Big Book	[CC][B]	St. Paul Lutheran Church	 30600 Thousand Oaks Blvd		Agoura Hills	91301	Sunday	5:00 PM
+AH10	[699068][93][28]	Nitty Gritty Big Book Study	[W][C]	New Hope Lutheran Church	 29295 Agoura Rd		Agoura Hills	91301	Monday	7:00 PM
+AH11	[610737][93][28]	Primary Purpose Group	[H]	New Hope Lutheran Church	 29295 Agoura Rd		Agoura Hills	91301	Tuesday	8:00 PM
+AH12		Agoura Pirates Group	[C][M][H]	New Hope Lutheran Church	 29295 Agoura Rd		Agoura Hills	91301	Wednesday	6:30 PM
+AH13		Agoura Hills Monday Night Women's Group	[W][H]	New Hope Lutheran Church	 29295 Agoura Rd		Agoura Hills	91301	Monday	5:30 PM
+AH27		Last Chance Men's Stag	[M][C]	Gateway Church	 29646 Agoura Rd		Agoura Hills	91301	Monday	6:00 PM
+AH28		Agoura Hills Men's Cross Talk	[M][H]	New Hope Lutheran Church	 29295 Agoura Rd		Agoura Hills	91301	Thursday	6:30 PM
+AH29		How It Works		New Hope Lutheran Church	 29295 Agoura Rd		Agoura Hills	91301	Friday	5:30 PM
+CA01		Calabasas Group of Alcoholis Anonymous		Santa Fe Café Resturant	 5679 Las Virgenes Road		Calabasas	91302	Tuesday	4:00 PM
+CM01	[101014][93][12]	Camarillo Discussion Group	[H]	St. Columba's Episcopal Church	 1251 E Los Posas Rd		Camarillo	93010	Thursday	8:00 PM
+CM02	[101016][93][12]	Kitchen Table Discussion Grp		Medical Center	 2438 N Ponderosa Dr.	 Bldg E Room 161	Camarillo	93010	Tuesday	7:55 PM
+CM03	[118003][93][12]	Kitchen Table Group	[C][H]	United Methodist Church	  291 Anacapa Drive	 (in classroom)	Camarillo	93010	Monday	8:00 PM
+CM04	[119069][93][12]	Women's Discussion Group	[W][C]	St. Columba's Episcopal Church	 1251 E Los Posas Rd		Camarillo	93010	Wednesday	7:00 PM
+CM05	[130756][93][12]	As Bill Sees It Group	[C]	Camarillo Church of the Nazarene	 2280 Antonio Avenue		Camarillo	93010	Saturday	9:30 AM
+CM06	[131645][93][12]	Beginner's Meeting	[H][CH][B]	St. Columba's Episcopal Church	 1251 E Los Posas Rd		Camarillo	93010	Friday	8:00 PM
+CM07	[157391][93][12]	Camarillo Discussion Group	[C]	United Methodist Church	  291 Anacapa Drive	 (in classroom)	Camarillo	93010	Saturday	8:00 PM
+CM09	[610142][93][12]	Noon Discussion Group	[H]	United Methodist Church	  291 Anacapa Drive	 (in classroom)	Camarillo	93010	Friday	12:00 PM
+CM10	[143486][93][12]	Noon Beginners Meeting	[H]	United Methodist Church	  291 Anacapa Drive	 (in classroom)	Camarillo	93010	Thursday	12:00 PM
+CM11	[648844][93][12]	Big Book Study Group		United Methodist Church	  291 Anacapa Drive	 (in classroom)	Camarillo	93010	Tuesday	12:00 PM
+CM12	[629429][93][12]	12 & 12 Step Study	[C]	The Buck	 321 North Aviador St 101		Camarillo	93010	Sunday	7:00 PM
+CM13	[630269][93][12]	Discussion Meeting		United Methodist Church	  291 Anacapa Drive	 (in classroom)	Camarillo	93010	Monday	6:30 PM
+CM14	[638998][93][12]	Noon Discussion Group		United Methodist Church	  291 Anacapa Drive	 (in classroom)	Camarillo	93010	Wednesday	12:00 PM
+CM15	[629431][93][12]	Men's Stag	[C][CH][B]	Church of Religious Science	  221 E. Daily Drive		Camarillo	93010	Wednesday	8:00 PM
+CM17	[631547][93][12]	Back to Basics	[CC]	Chapel City Church	 2315 Ventura Blvd.		Camarillo	93010	Saturday	10:00 AM
+CM18	[177110][93][12]	Noon Discussion Group	[C][H]	United Methodist Church	  291 Anacapa Drive	 (in classroom)	Camarillo	93010	Monday	12:00 PM
+CM21	[631550][93][12]	Women's Lunch Bunch	[W][C]	Camarillo Church of the Nazarene	 2280 Antonio Avenue		Camarillo	93010	Thursday	12:00 PM
+CM24	[101016][93][12]	Happy Hour Group		Medical Center	 2438 N Ponderosa Dr.	 Bldg E Room 124 In Back	Camarillo	93010	Tuesday	6:00 PM
+CM28		Living Sober	[H]	Central Office	 321 North Avaidor Street	 Suite 115	Camarillo	93010	Wednesday	6:30 PM
+CM31	[637345][93][12]	Puttin' Sober Oxnard		The Buck	 321 North Aviador St 101		Camarillo	93010	Sunday	8:30 AM
+CM33		Easy Riders AA Group		Villa Calleguas Community Room	  1742 S. Lewis Rd		Camarillo	93012	Friday	1:00 PM
+CM-40		Happy Hour Group		The Buck	 321 North Aviador St 101		Camarillo	93010	Every day	5:30 PM
+CM40A	[125601][93][12]	Donut Meeting		The Buck	 321 North Aviador St 101		Camarillo	93010	Sunday	10:30 AM
+CM40B	[125601][93][12]	5:30 Happy Hour		The Buck	 321 North Aviador St 101		Camarillo	93010	Sunday	5:30 PM
+CM40C	[125601][93][12]	Candlelight		The Buck	 321 North Aviador St 101		Camarillo	93010	Sunday	8:30 PM
+CM40D	[125601][93][12]	Nooner at The Buck		The Buck	 321 North Aviador St 101		Camarillo	93010	Monday	12:00 PM
+CM40E	[125601][93][12]	5:30 Happy Hour		The Buck	 321 North Aviador St 101		Camarillo	93010	Monday	5:30 PM
+CM40G	[125601][93][12]	Nooner at The Buck		The Buck	 321 North Aviador St 101		Camarillo	93010	Tuesday	12:00 PM
+CM40H	[125601][93][12]	5:30 Happy Hour		The Buck	 321 North Aviador St 101		Camarillo	93010	Tuesday	5:30 PM
+CM40I	[125601][93][12]	Big Book Step Study		The Buck	 321 North Aviador St 101		Camarillo	93010	Tuesday	7:30 PM
+CM40J	[125601][93][12]	Nooner at The Buck		The Buck	 321 North Aviador St 101		Camarillo	93010	Wednesday	12:00 PM
+CM40K	[125601][93][12]	5:30 Happy Hour		The Buck	 321 North Aviador St 101		Camarillo	93010	Wednesday	5:30 PM
+CM40L	[125601][93][12]	Nooner at The Buck		The Buck	 321 North Aviador St 101		Camarillo	93010	Thursday	12:00 PM
+CM40M	[125601][93][12]	5:30 Happy Hour		The Buck	 321 North Aviador St 101		Camarillo	93010	Thursday	5:30 PM
+CM40N	[125601][93][12]	Saturday Noon Special	[CH][B]	The Buck	 321 North Aviador St 101		Camarillo	93010	Saturday	12:00 PM
+CM40O	[125601][93][12]	Candlelight		The Buck	 321 North Aviador St 101		Camarillo	93010	Thursday	8:30 PM
+CM40P	[125601][93][12]	Nooner at The Buck		The Buck	 321 North Aviador St 101		Camarillo	93010	Friday	12:00 PM
+CM40Q	[125601][93][12]	5:30 Happy Hour		The Buck	 321 North Aviador St 101		Camarillo	93010	Friday	5:30 PM
+CM40S	[125601][93][12]	Candelight		The Buck	 321 North Aviador St 101		Camarillo	93010	Friday	8:30 PM
+CM40T	[125601][93][12]	5:30 Happy Hour		The Buck	 321 North Aviador St 101		Camarillo	93010	Saturday	5:30 PM
+CM40U	[125601][93][12]	8:30 PM Candlelight		The Buck	 321 North Aviador St 101		Camarillo	93010	Saturday	8:30 PM
+CM41	[209983][93][12]	Sober Whoopee Party Group		Dos Caminos Plaza	 3639 E Las Posas Rd.	 Bldg. E # 124	Camarillo	93010	Wednesday	7:00 PM
+CM42		Burning Desires Speaker Meeting	[CH][B]	Dos Caminos Plaza	 3639 Las Posas	 Building E  Room 115	Camarillo	93010	Sunday	5:00 PM
+CM45A		Happy Sunrise		The Buck	 321 North Aviador St 101		Camarillo	93010	Monday	7:00 AM
+CM45B		Happy Sunrise		The Buck	 321 North Aviador St 101		Camarillo	93010	Tuesday	7:00 AM
+CM45C		Happy Sunrise		The Buck	 321 North Aviador St 101		Camarillo	93010	Wednesday	7:00 AM
+CM45D		Happy Sunrise		The Buck	 321 North Aviador St 101		Camarillo	93010	Thursday	7:00 AM
+CM45E		Happy Sunrise		The Buck	 321 North Aviador St 101		Camarillo	93010	Friday	7:00 AM
+CM46	[717287][93][12]	11th Step Prayer & Meditation		Dos Caminos Plaza	 3639 E Las Posas Rd.	 Bldg. E # 124	Camarillo	93010	Tuesday	7:00 AM
+CMYP		Young People of AA Business Meeting		Central Office	 321 North Avaidor Street	 Suite 115	Camarillo	93010	Sunday	12:00 PM
+ER02		Women's Speaker	[W]	Babash's Angels	 576 E Collins Street		El Rio	93036	Sunday	7:30 PM
+FM05	[692905][93][12]	The Path to Freedom		Trinity Episcopal Church	 600 Saratoga		Fillmore	93015	Thursday	7:00 PM
+FM06		How It Work		Trinity Episcopal Church	 600 Saratoga		Fillmore	93015	Tuesday	7:00 PM
+MA01		Saturday Night Speaker Mtg	[CC]	Pt. Dume Elementry School	 6955 Fernhill	  in auditorium	Malibu	90265	Saturday	8:00 PM
+MA02		Serenity in the Canyon	[C]	Malibu Canyon	 327 S Latigo Cyn Rd		Malibu	90265	Wednesday	7:30 PM
+MP02	[633542][93][12]	Book Study	[C]	Community Christian Church	 216 Moorpark Avenue	 downstairs	Moorpark	93021	Tuesday	7:00 PM
+MP03	[134543][93][12]	Discussion Group		Community Christian Church	 216 Moorpark Avenue	 downstairs	Moorpark		Wednesday	7:15 PM
+MP04		Women Fellowship of the Spirit	[C][H]	Community Christian Church	 216 Moorpark Avenue	 downstairs	Moorpark	93021	Saturday	10:00 AM
+MP06	[690181][93][12]	Newcomer Question Answer		Moorpark College	 7075 Campus Rd	 Administration Bldg Room 138	Moorpark	93021	Wednesday	6:00 PM
+MP07		Progress Not Perfection	[C]	Community Christian Church	 216 Moorpark Avenue	 downstairs	Moorpark	93021	Friday	6:30 PM
+NP01	[101657][93][28]	Wednesday Q & A Group	[CH][B]	King of Glory Lutheran Church	 2500 Borchard Road		Newbury Park	91320	Wednesday	7:30 PM
+NP02	[102324][93][28]	Newcomers Living Sober		Calvery Chapel	 2697 Lavery Ct		Newbury Park	91320	Tuesday	7:30 PM
+NP03	[143269][93][28]	"""The Smokin' Big Book"""	[SF]	St. Julie Billiart Catholic Church	  2475 Borchard Road		Newbury Park	91320	Wednesday	8:30 PM
+NP04	[157460][93][28]	Women In the Solution	[W]	King of Glory Lutheran Church	 2500 Borchard Road		Newbury Park	91320	Monday	7:30 PM
+NP06	[603495][93][28]	Staying Alive Discussion	[CH][B]	King of Glory Lutheran Church	 2500 Borchard Road		Newbury Park	91320	Thursday	7:30 PM
+NP11	[143331][93][28]	Saturday Women's Promises	[C][W]	St. Matthews Methodist Church	 1360 Wendy Rd		Newbury Park	91320	Saturday	10:00 AM
+NP14		Sobrity First Group: Step Study	[CC]	Monte Vista Presbyterian Church	 3797 West Lynn Road		Newbury Park	91320	Saturday	5:00 PM
+NP15	[713928][93][28]	Newcomer Question & Answer	[H][CH]	Conejo Valley Unitarian Universalist Fellowship	 3331 Old Conejo Rd		Newbury Park	91320	Sunday	5:00 PM
+NP16A	[715598][93][28]	A New Attitude	[C]	Monte Vista Presbyterian Church	 3797 West Lynn Road		Newbury Park	91320	Monday	6:45 AM
+NP16B	[715598][93][28]	A New Attitude	[C]	Monte Vista Presbyterian Church	 3797 West Lynn Road		Newbury Park	91320	Wednesday	6:45 AM
+NP16C	[715598][93][28]	A New Attitude	[C][CH][B]	Monte Vista Presbyterian Church	 3797 West Lynn Road		Newbury Park	91320	Friday	6:45 AM
+NP17		Weekend Warriors Big Book Study		King of Glory Lutheran Church	 2500 Borchard Road		Newbury Park	91320	Saturday	6:00 PM
+NP18		Sunrise Woman's Fellowhip	[W]	St. Matthews Methodist Church	 1360 Wendy Rd		Newbury Park	91320	Saturday	10:00 AM
+OJ02	[132885][93][13]	The 5 P.M. Ojai Group		Ojai Valley Alano Club	 575 W El Roblar	 Meiners Oaks	Ojai	93023	Weekdays	5:00 PM
+OJ02A	[132885][93][13]	The 5 P.M. Ojai Q & A Group		Ojai Valley Alano Club	 575 W El Roblar	 Meiners Oaks	Ojai	93023	Wednesday	5:00 PM
+OJ02B	[132885][93][13]	5 P.M. Big Book Stories		Ojai Valley Alano Club	 575 W El Roblar	 Meiners Oaks	Ojai	93023	Thursday	5:00 PM
+OJ02C	[132885][93[13]	As Bill See's It		Ojai Valley Alano Club	 575 W El Roblar	 Meiners Oaks	Ojai	93023	Friday	5:00 PM
+OJ02D	[132885][93][13]	The 5 P.M. Ojai Discussion Group		Ojai Valley Alano Club	 575 W El Roblar	 Meiners Oaks	Ojai	93023	Tuesday	5:00 PM
+OJ02E	[132885][93][13]	Monday 5 PM Big Book Group	[H]	Ojai Valley Alano Club	 575 W El Roblar	 Meiners Oaks	Ojai	93023	Monday	5:00 PM
+OJ03	[150162][93][13]	As Bill See's It		Ojai Valley Alano Club	 575 W El Roblar	 Meiners Oaks	Ojai	93023	Saturday	11:00 AM
+OJ05	[166465][93][13]	Sunrise Meditation Group		Ojai Valley Alano Club	 575 W El Roblar	 Meiners Oaks	Ojai	93023	Every day	6:00 AM
+OJ05A	[166465][93][13]	Sunrise Meditation		Ojai Valley Alano Club	 575 W El Roblar	 Meiners Oaks	Ojai	93023	Sunday	7:00 AM
+OJ05B	[166465][93][13]	Sunrise Meditation		Ojai Valley Alano Club	 575 W El Roblar	 Meiners Oaks	Ojai	93023	Wednesday	6:00 AM
+OJ05C	[166465][93][13]	Sunrise Meditation	[H]	Ojai Valley Alano Club	 575 W El Roblar	 Meiners Oaks	Ojai	93023	Thursday	6:00 AM
+OJ05D	[166465][93][13]	Sunrise Meditation	[H]	Ojai Valley Alano Club	 575 W El Roblar	 Meiners Oaks	Ojai	93023	Friday	6:00 AM
+OJ05E	{166465][93[13]	Sunrise Meditation		Ojai Valley Alano Club	 575 W El Roblar	 Meiners Oaks	Ojai	93023	Saturday	7:00 AM
+OJ05F	[166465][93][13]	Sunrise Meditation		Ojai Valley Alano Club	 575 W El Roblar	 Meiners Oaks	Ojai	93023	Tuesday	6:00 AM
+OJ05G	[166465][93][13]	Sunrise Meditation		Ojai Valley Alano Club	 575 W El Roblar	 Meiners Oaks	Ojai	93023	Monday	6:00 AM
+OJ07	[705547][93][13]	Sunday Spiritual Meeting		Ojai Valley Alano Club	 575 W El Roblar	 Meiners Oaks	Ojai	93023	Sunday	10:00 AM
+OJ08	[645890][93][13]	Daily Reflections	[W][C]	First Baptist Church of Ojai	  930 Grand Avenue		Ojai	93023	Monday	9:00 AM
+OJ12	[169061][93][13]	As Bill See's It	[C]	St. Andrew’s Episcopal Church	  409 Topa Topa Drive		Ojai	93023	Tuesday	7:30 PM
+OJ16		Speaker Meeting	[H]	Ojai Valley Alano Club	 575 W El Roblar	 Meiners Oaks	Ojai	93023	Saturday	8:00 PM
+OJ20	[170932][93[13]	Sunday Night Candlelight 12 & 12	[H]	Ojai Valley Alano Club	 575 W El Roblar	 Meiners Oaks	Ojai	93023	Sunday	7:00 PM
+OJ21		Big Book Study		Ojai Valley Alano Club	 575 W El Roblar	 Meiners Oaks	Ojai	93023	Tuesday	12:00 PM
+OJ22	[663768[(93][13]	Wed Noon Steps & Traditions		Ojai Valley Alano Club	 575 W El Roblar	 Meiners Oaks	Ojai	93023	Wednesday	12:00 PM
+OJ23		Promises Meeting		Ojai Valley Alano Club	 575 W El Roblar	 Meiners Oaks	Ojai	93023	Friday	12:00 PM
+OJ27		Ojai Thursday Night Men's Stag	[C][M]	Private Residence	 83 Crown Street		Ojai	93023	Thursday	7:00 PM
+OJ28	[712854][93][13]	Serenity Circle Women's Group	[W][C]	St. Andrew’s Episcopal Church	  409 Topa Topa Drive		Ojai	93023	Thursday	7:30 PM
+OJ30		Men's Book Study	[M]	St. Andrew’s Episcopal Church	  409 Topa Topa Drive		Ojai	93023	Monday	7:00 PM
+OJ31		Ojai Beginner's Meeting		St. Andrew’s Episcopal Church	  409 Topa Topa Drive		Ojai	93023	Friday	7:30 PM
+OJ32		Ojai Into Action Group	[C]	St. Andrew’s Episcopal Church	  409 Topa Topa Drive		Ojai	93023	Saturday	6:00 PM
+OJ33		Beyond Belief		St. Andrew’s Episcopal Church	  409 Topa Topa Drive		Ojai	93023	Thursday	12:00 PM
+OP15	[713320][93][28]	What It Is Like Now		Episcopal Church of the Epiphany	 5450 Churchwood Dr.		Oak Park	91377	Friday	5:30 PM
+OV19	[643661][93][13]	Oak View Promises		Oak View Community Center	 555 Mahoney Ave		Oak View	93022	Wednesday	7:00 PM
+OX01	[101741][93][9]	Beach Group		Peninsula Park	 3333 Peninsula Rd	 (bldg at harbors edge 2nd floor)	Oxnard	93035	Tuesday	8:00 PM
+OX02	[101745][93][9]	Big Book Study Group		Lutheran Church of Our Redeemer	 721 Doris Ave.		Oxnard	93030	Friday	8:00 PM
+OX07	[628459][93][9]	Serenity in the Sand	[CH][B]	Silverstrand Beach	 Parking Lot Corner of Ocean & San Nicolas	 Silverstrand Beach	Oxnard	93035	Sunday	9:00 AM
+OX09	[119311][93][9]	Oxnard Women's Group	[W][C][CH][B]	Lutheran Church of Our Redeemer	 721 Doris Ave.		Oxnard	93030	Thursday	7:30 PM
+OX10	[124294][93][9]	We Care Today	[C]	Oxnard Alano Club	  620 South D Street	 upstairs  486-3356	Oxnard	93030	Mon thru Sat	10:00 AM
+OX100		"""In Memory of H.R.A.C."""		Salvation Army Worship Center	 622 W. Wooley Rd.		Oxnard	93033	Thursday	5:30 PM
+OX103		Sisters in Recovery	[W]	Oxnard Alano Club	  620 South D Street	 upstairs  486-3356	Oxnard	93030	Tuesday	7:30 PM
+OX109		Noon at the Park		Peninsula Park	 3333 Peninsula Rd	 (bldg at harbors edge 2nd floor)	Oxnard	93035	Monday	12:00 PM
+OX10A	[124294][93][9]	We Care Today	[C]	Oxnard Alano Club	  620 South D Street	 upstairs  486-3356	Oxnard	93030	Wednesday	10:00 AM
+OX10B	[124294][93][19]	We Care Today	[C]	Oxnard Alano Club	  620 South D Street	 upstairs  486-3356	Oxnard	93030	Thursday	10:00 AM
+OX10C	[124294][93][9]	We Care Today		Oxnard Alano Club	  620 South D Street	 upstairs  486-3356	Oxnard	93030	Friday	10:00 AM
+OX10E	[124294][93][9]	We Care Today	[C]	Oxnard Alano Club	  620 South D Street	 upstairs  486-3356	Oxnard	93030	Tuesday	10:00 AM
+OX10F	[124294][93][9]	We Care Today		Oxnard Alano Club	  620 South D Street	 upstairs  486-3356	Oxnard	93030	Monday	10:00 AM
+OX10G	[124294][93][9]	As Bill See's It	(C)	Oxnard Alano Club	  620 South D Street	 upstairs  486-3356	Oxnard	93030	Saturday	10:00 AM
+OX111		The Next Step	[C]	Center for Spiritual Living	 138 S A Street		Oxnard	93030	Monday	7:00 PM
+OX120		Noon at the Park		Peninsula Park	 3333 Peninsula Rd	 (bldg at harbors edge 2nd floor)	Oxnard	93035	Thursday	12:00 PM
+OX121		Tuesday Noon at the Park		Peninsula Park	 3333 Peninsula Rd	 (bldg at harbors edge 2nd floor)	Oxnard	93036	Tuesday	12:00 PM
+OX125		Water's Edge 12x12 Study		Peninsula Park	 3333 Peninsula Rd	 (bldg at harbors edge 2nd floor)	Oxnard	93036	Monday	7:00 PM
+OX126	[712498][93][9]	Ring of Fire		Private Residence	 460 South F Street	 (at 5th St)	Oxnard	93030	Sunday	7:00 PM
+OX13	[128971][93][9]	Into Action Fellowship (Speaker)		Community Bible Mission Chuch	 1500 Mariner Dr	 Unit L	Oxnard	93033	Saturday	8:00 PM
+OX130		12 Step Book Study		Office Space	 601 Del Norte	 Suite I	Oxnard	93030	Wednesday	7:00 PM
+OX14	[146971][93][9]	Sunrise Sobriety		Oxnard Alano Club	  620 South D Street	 upstairs  486-3356	Oxnard	93030	Every day	7:00 AM
+OX141		Campfire Meeting		Private Residence	 2310 Saviers Rd		Oxnard	93030	Sunday	7:30 PM
+OX142		Fireside Meeting	[CH][B]	Private Residence	 684 Deodar Ave	 Enter Though Side Gate	Oxnard	93030	Friday	8:00 PM
+OX14A	[146971][93][9]	Sunrise Sobriety		Oxnard Alano Club	  620 South D Street	 upstairs  486-3356	Oxnard	93030	Sunday	7:00 AM
+OX14B	[146971][93][9]	Sunrise Sobriety Book Study		Oxnard Alano Club	  620 South D Street	 upstairs  486-3356	Oxnard	93030	Wednesday	7:00 AM
+OX14C	[146971][93][9]	Sunrise Sobriety		Oxnard Alano Club	  620 South D Street	 upstairs  486-3356	Oxnard	93030	Thursday	7:00 AM
+OX14D		Sunrise Sobriety		Oxnard Alano Club	  620 South D Street	 upstairs  486-3356	Oxnard	93030	Friday	7:00 AM
+OX14E	[146971][93][9]	Sunrise Sobriety		Oxnard Alano Club	  620 South D Street	 upstairs  486-3356	Oxnard	93030	Saturday	7:00 AM
+OX14F	[146971][93][9]	Sunrise Sobriety		Oxnard Alano Club	  620 South D Street	 upstairs  486-3356	Oxnard	93030	Tuesday	7:00 AM
+OX14G	[146971][93][9]	Sunrise Sobriety 12 & 12		Oxnard Alano Club	  620 South D Street	 upstairs  486-3356	Oxnard	93030	Monday	7:00 AM
+OX15	[135832][93][9]	Men's Stag	[M]	Peninsula Park	 3333 Peninsula Rd	 (bldg at harbors edge 2nd floor)	Oxnard	93035	Thursday	8:00 PM
+OX16	[163833][93][9]	The Pier Group		Peninsula Park	 3333 Peninsula Rd	 (bldg at harbors edge 2nd floor)	Oxnard	93035	Friday	8:00 PM
+OX17	[101751][93][9]	Breakfast Meeting (Discussion)		Oxnard Alano Club	  620 South D Street	 upstairs  486-3356	Oxnard	93030	Sunday	10:30 AM
+OX18	[166167][93][9]	The First 164 and More Group		Oxnard Alano Club	  620 South D Street	 upstairs  486-3356	Oxnard	93030	Friday	7:30 PM
+OX19	[169179][93][9]	Serenity by the Sea		Peninsula Park	 3333 Peninsula Rd	 (bldg at harbors edge 2nd floor)	Oxnard	93035	Saturday	12:00 PM
+OX20	[173349][93][9]	High Nooners Group		Oxnard Alano Club	  620 South D Street	 upstairs  486-3356	Oxnard	93030	Various	12:00 PM
+OX20A	[173349][93][9]	High Nooners		Oxnard Alano Club	  620 South D Street	 upstairs  486-3356	Oxnard	93030	Wednesday	12:00 PM
+OX20B	[173349][93][9]	High Nooners		Oxnard Alano Club	  620 South D Street	 upstairs  486-3356	Oxnard	93030	Thursday	12:00 PM
+OX20C	[173349][93][9]	Daily Reflections		Oxnard Alano Club	  620 South D Street	 upstairs  486-3356	Oxnard	93030	Friday	12:00 PM
+OX20D	[173349][93][9]	High Nooners		Oxnard Alano Club	  620 South D Street	 upstairs  486-3356	Oxnard	93030	Monday	12:00 PM
+OX20E	[173349][93][9]	High Nooners		Oxnard Alano Club	  620 South D Street	 upstairs  486-3356	Oxnard	93030	Tuesday	12:00 PM
+OX20F	[173349][93][9]	High Nooner		Oxnard Alano Club	  620 South D Street	 upstairs  486-3356	Oxnard	93030	Sunday	12:00 PM
+OX22	[617771][93][9]	Candlelight Discussion	[C]	Peninsula Park	 3333 Peninsula Rd	 (bldg at harbors edge 2nd floor)	Oxnard	93035	Wednesday	8:00 PM
+OX23	[125597][93][9]	Monday Night Discussion		Peninsula Park	 3333 Peninsula Rd	 (bldg at harbors edge 2nd floor)	Oxnard	93035	Monday	5:30 PM
+OX31	[639887][93][9]	Out of the Fog Meeting	[C]	Peninsula Park	 3333 Peninsula Rd	 (bldg at harbors edge 2nd floor)	Oxnard	93035	Tuesday	5:30 PM
+OX32		Miracles Happen/Big Book Study		Oxnard Alano Club	  620 South D Street	 upstairs  486-3356	Oxnard	93030	Tuesday	6:00 PM
+OX36	[662985][93][9]	Marina Eleventh Step		Peninsula Park	 3333 Peninsula Rd	 (bldg at harbors edge 2nd floor)	Oxnard	93035	Saturday	8:00 AM
+OX36A	[662985][93][9]	Marina Discussion		Peninsula Park	 3333 Peninsula Rd	 (bldg at harbors edge 2nd floor)	Oxnard	93035	Monday	7:00 AM
+OX36B	[662985][93][9]	Marina Step Study		Peninsula Park	 3333 Peninsula Rd	 (bldg at harbors edge 2nd floor)	Oxnard	93035	Tuesday	7:00 AM
+OX36C	[662985][93][9]	Marina Discussion		Peninsula Park	 3333 Peninsula Rd	 (bldg at harbors edge 2nd floor)	Oxnard	93035	Wednesday	7:00 AM
+OX36D	[662985][93][9]	As Bill See's It		Peninsula Park	 3333 Peninsula Rd	 (bldg at harbors edge 2nd floor)	Oxnard	93035	Thursday	7:00 AM
+OX36E	[662985][93][9]	Marina Big Book Study		Peninsula Park	 3333 Peninsula Rd	 (bldg at harbors edge 2nd floor)	Oxnard	93035	Friday	7:00 AM
+OX37		Miracles Happen		Oxnard Alano Club	  620 South D Street	 upstairs  486-3356	Oxnard	93030	Monday	6:00 PM
+OX38	[639889][93][9]	Sunday Nite Speaker Disc		Peninsula Park	 3333 Peninsula Rd	 (bldg at harbors edge 2nd floor)	Oxnard	93035	Sunday	7:30 PM
+OX42	[643658][93][9]	Sunset at the Harbor		Peninsula Park	 3333 Peninsula Rd	 (bldg at harbors edge 2nd floor)	Oxnard	93035	Friday	5:30 PM
+OX43		Miracles Happen		Oxnard Alano Club	  620 South D Street	 upstairs  486-3356	Oxnard	93030	Friday	6:00 PM
+OX45		Noon at the Park		Peninsula Park	 3333 Peninsula Rd	 (bldg at harbors edge 2nd floor)	Oxnard	93035	Wednesday	12:00 PM
+OX48		Miracles Happen		Oxnard Alano Club	  620 South D Street	 upstairs  486-3356	Oxnard	93030	Sunday	6:00 PM
+OX49		"""Snap Out of It """		Oxnard Alano Club	  620 South D Street	 upstairs  486-3356	Oxnard	93030	Saturday	6:00 PM
+OX53		"It Works, It Really Does"	[C]	Peninsula Park	 3333 Peninsula Rd	 (bldg at harbors edge 2nd floor)	Oxnard	93035	Thursday	5:30 PM
+OX54		Miracles Happen	[B][CH]	Oxnard Alano Club	  620 South D Street	 upstairs  486-3356	Oxnard	93030	Thursday	6:00 PM
+OX59		3 Legacies Disc Meeting	[C]	Peninsula Park	 3333 Peninsula Rd	 (bldg at harbors edge 2nd floor)	Oxnard	93035	Wednesday	5:30 PM
+OX60		12 & 12 Study		Oxnard Alano Club	  620 South D Street	 upstairs  486-3356	Oxnard	93030	Wednesday	6:00 PM
+OX65	[625224][93][9]	Women's Meeting	[W]	Peninsula Park	 3333 Peninsula Rd	 (bldg at harbors edge 2nd floor)	Oxnard	93035	Sunday	10:30 AM
+OX70		Saturday Night Discussion		Peninsula Park	 3333 Peninsula Rd	 (bldg at harbors edge 2nd floor)	Oxnard	93035	Saturday	8:00 PM
+OX79		Language of the Heart Big Bk Study		Peninsula Park	 3333 Peninsula Rd	 (bldg at harbors edge 2nd floor)	Oxnard	93035	Sunday	5:30 PM
+OX80		Big Book Study		Peninsula Park	 3333 Peninsula Rd	 (bldg at harbors edge 2nd floor)	Oxnard	93035	Saturday	5:30 PM
+OX87	[689961][93][9]	New Beginnings	[W][C]	Prototypes Womens Center	 2150 N Victoria Ave		Oxnard	93001	Sunday	4:00 PM
+OX89		Men In Recovery	[M][C]	Oxnard Alano Club	  620 South D Street	 upstairs  486-3356	Oxnard	93030	Saturday	12:00 PM
+OX90		"""Women Working With Women"""	[W]	Oxnard Alano Club	  620 South D Street	 upstairs  486-3356	Oxnard	93030	Saturday	1:30 PM
+OX94		Noon at th Park		Peninsula Park	 3333 Peninsula Rd	 (bldg at harbors edge 2nd floor)	Oxnard	93035	Friday	12:00 PM
+PH01	[100556][93][9]	It's For You Group	[H]	Base Chapel Classroom	 SeaBee Base		Port Hueneme	93041	Saturday	12:00 PM
+PH05	[123861][93][9]	Cloud Nine Group		Base Chapel Classroom	 SeaBee Base		Port Hueneme	93041	Thursday	12:00 PM
+PH06	[126289][93][9]	Sober Lunch Bunch		Base Chapel Classroom	 SeaBee Base		Port Hueneme	93041	Tuesday	12:00 PM
+PH41		Try God Group	[H]	Private Residence	 117 Pearl Street	 (next to church)	Port Hueneme	93041	Monday	7:30 PM
+PI02		Piru Group Discussion		Piru United Methodist Church	 3875 Center Street		Piru	93040	Thursday	7:00 PM
+SP02		Back to Basics		Fellowship Hall	  603 E Main Street	 entrance right side of building	Santa Paula	93060	Friday	7:00 PM
+SP09		Candlelight Meeting		Fellowship Hall	  603 E Main Street	 entrance right side of building	Santa Paula	93060	Tuesday	7:00 PM
+SP12		Discussion Meeting	[C][H]	Fellowship Hall	  603 E Main Street	 entrance right side of building	Santa Paula	93060	Thursday	7:00 PM
+SP13		Santa Paula Big Book Meeting	[H]	Fellowship Hall	  603 E Main Street	 entrance right side of building	Santa Paula	93060	Monday	12:00 PM
+SP14		Podium Participation		Fellowship Hall	  603 E Main Street	 entrance right side of building	Santa Paula	93060	Saturday	7:00 PM
+SP15		Santa Paula Tues Noon Serenity Mtg		Fellowship Hall	  603 E Main Street	 entrance right side of building	Santa Paula	93060	Tuesday	12:00 PM
+SP16		Thursday Noon Discussion		Fellowship Hall	  603 E Main Street	 entrance right side of building	Santa Paula	93060	Thursday	12:00 PM
+SP17		As Bill Sees It Open Discussion		Fellowship Hall	  603 E Main Street	 entrance right side of building	Santa Paula	93060	Friday	12:00 PM
+SP20		12 & 12 Meeting		Fellowship Hall	  603 E Main Street	 entrance right side of building	Santa Paula	93060	Wednesday	7:00 PM
+SP21		Back to the Basics		Fellowship Hall	  603 E Main Street	 entrance right side of building	Santa Paula	93060	Wednesday	12:00 PM
+SP22		H.O.W. Meeting		Fellowship Hall	  603 E Main Street	 entrance right side of building	Santa Paula	93060	Saturday	12:00 PM
+SP23		Attitude Modification Meeting		Fellowship Hall	  603 E Main Street	 entrance right side of building	Santa Paula	93060	Various	7:00 AM
+SP24		Big Book Study		Fellowship Hall	  603 E Main Street	 entrance right side of building	Santa Paula	93060	Monday	7:30 PM
+SP25		Experience Strenght & Hope Speaker Mtg		Fellowship Hall	  603 E Main Street	 entrance right side of building	Santa Paula	93060	Sunday	7:00 PM
+SV01	[100574][93][24]	Simi Unity Group		Unity Meeting Hall	  2355 Tapo Street  5	 Behind McDonalds	Simi Valley	93063	Every day	12:00 PM
+SV01A		Zero Gravity Meeting		Unity Meeting Hall	  2355 Tapo Street  5	 Behind McDonalds	Simi Valley	93063	Sunday	12:00 PM
+SV01A2	[100574][93][24]	Sunday 12 Step Study		Unity Meeting Hall	  2355 Tapo Street  5	 Behind McDonalds	Simi Valley	93063	Sunday	8:00 AM
+SV01A3	[100574][93][24]	Saturday Morning Big Book Study		Unity Meeting Hall	  2355 Tapo Street  5	 Behind McDonalds	Simi Valley	93063	Saturday	8:00 AM
+SV01A4	[100574][93][24]	Sunset		Unity Meeting Hall	  2355 Tapo Street  5	 Behind McDonalds	Simi Valley	93063	Sunday	5:00 PM
+SV01A5	[100574][93][24]	Grapevine Reading/Participation		Unity Meeting Hall	  2355 Tapo Street  5	 Behind McDonalds	Simi Valley	93063	Saturday	5:00 PM
+SV01A6	[100574][93][24]	Candlight Meeting	[H]	Unity Meeting Hall	  2355 Tapo Street  5	 Behind McDonalds	Simi Valley	93063	Sunday	8:00 PM
+SV01A8		Podium Participation		Unity Meeting Hall	  2355 Tapo Street  5	 Behind McDonalds	Simi Valley	93063	Thursday	12:00 PM
+SV01C	[100574][93][24]	Happy Hour Discussion		Unity Meeting Hall	  2355 Tapo Street  5	 Behind McDonalds	Simi Valley	93063	Wednesday	6:00 PM
+SV01D	[100574][93][24]	Partisipation Meeting	[C]	Unity Meeting Hall	  2355 Tapo Street  5	 Behind McDonalds	Simi Valley	93063	Wednesday	8:00 PM
+SV01E	[100574][93][24]	Big Book Study	[CH][B]	Unity Meeting Hall	  2355 Tapo Street  5	 Behind McDonalds	Simi Valley	93063	Wednesday	12:00 PM
+SV01F	[100574][93][24]	Traditions Study		Unity Meeting Hall	  2355 Tapo Street  5	 Behind McDonalds	Simi Valley	93063	Thursday	6:00 PM
+SV01H	[100574][93][24]	Big Book Solution		Unity Meeting Hall	  2355 Tapo Street  5	 Behind McDonalds	Simi Valley	93063	Friday	6:00 PM
+SV01I	[100574][93][24]	Step Study Meeting		Unity Meeting Hall	  2355 Tapo Street  5	 Behind McDonalds	Simi Valley	93063	Friday	8:00 PM
+SV01J	[100574][93][24]	Steps & Traditions		Unity Meeting Hall	  2355 Tapo Street  5	 Behind McDonalds	Simi Valley	93063	Friday	12:00 PM
+SV01K	[100574][93][24]	Speaker Meeting		Unity Meeting Hall	  2355 Tapo Street  5	 Behind McDonalds	Simi Valley	93063	Saturday	8:00 PM
+SV01L	[100574][93][24]	Participation Meeting		Unity Meeting Hall	  2355 Tapo Street  5	 Behind McDonalds	Simi Valley	93063	Saturday	12:00 PM
+SV01M	[100574][93][24]	Step By Step	[C]	Unity Meeting Hall	  2355 Tapo Street  5	 Behind McDonalds	Simi Valley	93063	Tuesday	6:00 PM
+SV01N	[100574][93][24]	Unity Men's Stag	[M]	Unity Meeting Hall	  2355 Tapo Street  5	 Behind McDonalds	Simi Valley	93063	Tuesday	8:00 PM
+SV01O	[100574][93][24]	Participation Meeting		Unity Meeting Hall	  2355 Tapo Street  5	 Behind McDonalds	Simi Valley	93063	Tuesday	12:00 PM
+SV01P	[100574][93][24]	Big Book Study		Unity Meeting Hall	  2355 Tapo Street  5	 Behind McDonalds	Simi Valley	93063	Monday	6:00 PM
+SV01Q	[100574][93][24]	Big Book & 12 & 12 Study		Unity Meeting Hall	  2355 Tapo Street  5	 Behind McDonalds	Simi Valley	93063	Monday	8:00 PM
+SV01R	[100574][93][24]	Participation Meeting		Unity Meeting Hall	  2355 Tapo Street  5	 Behind McDonalds	Simi Valley	93063	Thursday	8:00 PM
+SV01S	[100574][93][24]	Sunrise		Unity Meeting Hall	  2355 Tapo Street  5	 Behind McDonalds	Simi Valley	93063	Sunday	6:15 AM
+SV01T	[100574][93][24]	Sunrise		Unity Meeting Hall	  2355 Tapo Street  5	 Behind McDonalds	Simi Valley	93063	Monday	6:15 AM
+SV01U	[100574][93][24]	Sunrise		Unity Meeting Hall	  2355 Tapo Street  5	 Behind McDonalds	Simi Valley	93063	Tuesday	6:15 AM
+SV01V	[100574][93][24]	Sunrise		Unity Meeting Hall	  2355 Tapo Street  5	 Behind McDonalds	Simi Valley	93063	Wednesday	6:15 AM
+SV01W	[100574][93][24]	Sunrise		Unity Meeting Hall	  2355 Tapo Street  5	 Behind McDonalds	Simi Valley	93063	Thursday	6:15 AM
+SV01X	[100574][93][24]	Sunrise		Unity Meeting Hall	  2355 Tapo Street  5	 Behind McDonalds	Simi Valley	93063	Friday	6:15 AM
+SV01Z	[100574][93][24]	Sat Morning Unity Women's Disc Mtg	[W][C]	Unity Meeting Hall	  2355 Tapo Street  5	 Behind McDonalds	Simi Valley	93063	Saturday	10:00 AM
+SV02	[125317][93][24]	Men's Stag	[M][C][H][CH][B]	St. Francis of Assisi Episcopal Church	 280 Royal Avenue		Simi Valley	93065	Monday	8:00 PM
+SV04	[137588][93][24]	Way of Life Group	[C]	St. Francis of Assisi Episcopal Church	 280 Royal Avenue		Simi Valley	93065	Friday	8:00 PM
+SV05	[157943][93][24]	Simi Sunday Speaker		Berylwood Pk Rec Center	 1955 Bridget Ave	 (at Los Angeles Ave)	Simi Valley	93065	Sunday	7:00 PM
+SV07	[161050][93][24]	Back to the Books Study Group		St. Francis of Assisi Episcopal Church	 280 Royal Avenue		Simi Valley	93065	Wednesday	7:30 PM
+SV-0Y	[100574][93][24]	Sunrise		Unity Meeting Hall	  2355 Tapo Street  5	 Behind McDonalds	Simi Valley	93063	Saturday	6:15 AM
+SV10	[169271][93][24]	God's Little Garage Group	[C]	Private Residance	 1097 El Camino Real		Simi Valley	93063	Saturday	7:00 PM
+SV11	[169368][93][24]	The Bananas Bunch		Our Savior Lutheran Church	 4191 Cochran Street	 Upstairs	Simi Valley	93063	Saturday	10:00 AM
+SV14	[611519][93][24]	Daily Reflections Group	[H]	Church of Christ	 1554 Sinaloa Road	 In Heller Hall	Simi Valley	93065	Every day	6:30 AM
+SV14A	[611519][93][24]	Daily Reflections		Church of Christ	 1554 Sinaloa Road	 In Heller Hall	Simi Valley	93065	Sunday	6:30 AM
+SV14B	[611519][93][24]	Daily Reflections		Church of Christ	 1554 Sinaloa Road	 In Heller Hall	Simi Valley	93065	Wednesday	6:30 AM
+SV14C	[611519][93][24]	Daily Reflections		Church of Christ	 1554 Sinaloa Road	 In Heller Hall	Simi Valley	93065	Thursday	6:30 AM
+SV14D	[611519][93][24]	Daily Reflections		Church of Christ	 1554 Sinaloa Road	 In Heller Hall	Simi Valley	93065	Friday	6:30 AM
+SV14E	[611519][93][24]	Daily Reflections		Church of Christ	 1554 Sinaloa Road	 In Heller Hall	Simi Valley	93065	Saturday	6:30 AM
+SV14F	[611519][93][24]	Daily Reflections		Church of Christ	 1554 Sinaloa Road	 In Heller Hall	Simi Valley	93065	Tuesday	6:30 AM
+SV14G	[611519][93][24]	Daily Reflections		Church of Christ	 1554 Sinaloa Road	 In Heller Hall	Simi Valley	93065	Monday	6:30 AM
+SV15	[616855][93][24]	Women's Stag	[W][C][CH][B][H]	Center for Spiritual Living	 1756 Erringer Rd	 Suite 108	Simi Valley	93065	Monday	7:30 PM
+SV17	[134168][93][24]	Women's Stag Group	[W][C]	St. Francis of Assisi Episcopal Church	 280 Royal Avenue		Simi Valley	93065	Tuesday	8:00 PM
+SV26	[632465][93][24]	Aloha Big Book Study	[H][CH][B]	Action Family Counseling Ctr	 4380 Apricot Rd		Simi Valley	93063	Saturday	7:00 PM
+SV34	[147142][93][24]	Spiritual Discussion Group		Berylwood Pk Rec Center	 1955 Bridget Ave	 (at Los Angeles Ave)	Simi Valley	93065	Sunday	10:00 AM
+SV45	[100574][93][24]	Question & Answer/Newcomer		Unity Meeting Hall	  2355 Tapo Street  5	 Behind McDonalds	Simi Valley	93063	Monday	12:00 PM
+SV51	[664779][93][24]	Evening Reflections		Simi Valley United Methodist Church	 2394 Erringer Rd	 in Fireside Rm	Simi Valley	93065	Tues thru Sat	5:45 PM
+SV51A	[664779][93][24]	Evening Reflections		Simi Valley United Methodist Church	 2394 Erringer Rd	 in Fireside Rm	Simi Valley	93065	Monday	5:45 PM
+SV51B	[664779][93][24]	Evening Reflections		Simi Valley United Methodist Church	 2394 Erringer Rd	 in Fireside Rm	Simi Valley	93065	Tuesday	5:45 PM
+SV51C	[664779][93][24]	Evening Reflections		Simi Valley United Methodist Church	 2394 Erringer Rd	 in Fireside Rm	Simi Valley	93065	Wednesday	5:45 PM
+SV51D	[664779][93][24]	Evening Reflections		Simi Valley United Methodist Church	 2394 Erringer Rd	 in Fireside Rm	Simi Valley	93065	Thursday	5:45 PM
+SV51E	[664779][93][24]	Evening Reflections		Simi Valley United Methodist Church	 2394 Erringer Rd	 in Fireside Rm	Simi Valley	93065	Friday	5:45 PM
+SV52	[699221][93][24]	Serenity through Solutions Men's Group	[M][C]	Discovery Christion Church	 580 E Easy Street		Simi Valley	93065	Sunday	6:00 PM
+SV53		Tuesday Night Young People	[YP]	Store Front	 2585 Cochran St		Simi Valley	93065	Tuesday	7:00 PM
+SV54	[718613][93][24]	Men's Getting Real Group	[M]	Shepard of the Valley Church	 4191 Cochran St	 in library	Simi Valley	93063	Tuesday	6:30 PM
+TO01	[100952][93][28]	As Bill See's It	[W][C]	Conejo Valley Congregational Church	 750 Erbes Rd		Thousand Oaks	91362	Friday	10:30 AM
+TO02	[102327][93][28]	Serenity Gals Group	[W][C][CC][CH][B]	Conejo Valley Congregational Church	 750 Erbes Rd		Thousand Oaks	91362	Monday	10:30 AM
+TO03	[102329][93][28]	Women's Step Big Bk Stdy Gp	[W][C]	Conejo Valley Congregational Church	 750 Erbes Rd		Thousand Oaks	91362	Tuesday	10:30 AM
+TO04	[118803][93][28]	Big Book Study Group	[C]	Conejo Valley Church of Christ	 2525 E Hillcrest Dr		Thousand Oaks	91362	Tuesday	7:30 PM
+TO05	[118980][93][28]	The Oaks Folks Group	[H]	St. Patrick's Episcopal Church	  1 Church Road	 in auditorium	Thousand Oaks	91362	Saturday	8:00 PM
+TO06	[131638][93][28]	Hear and Now Group	[C]	St. Patrick's Episcopal Church	  1 Church Road	 in auditorium	Thousand Oaks	91362	Friday	8:30 PM
+TO07	[138768][93][28]	"Thursday ""Noon 15 Group"""	[H]	Conejo Valley Congregational Church	 750 Erbes Rd		Thousand Oaks	91362	Thursday	12:15 PM
+TO09	[600181][93][28]	Last Sunday Breakfast Speaker Mtg		Elks Lodge	 158 N. Conejo School Rd		Thousand Oaks	91362	Sunday	9:00 AM
+TO10	[627647][93][28]	Newcomers Meeting		Conejo Valley Church of Christ	 2525 E Hillcrest Dr		Thousand Oaks	91362	Thursday	8:00 PM
+TO11	[102326][93][28]	Men's Discussion Group	[M][C][H]	St. Patrick's Episcopal Church	  1 Church Road	 in auditorium	Thousand Oaks	91362	Monday	8:00 PM
+TO15	[629577][93][28]	"""Step Sisters"""	[W]	Conejo Valley Congregational Church	 750 Erbes Rd		Thousand Oaks	91362	Wednesday	10:30 AM
+TO16	[158567][93][28]	Visions Morning Group		Visions Meeting Hall	 2667 N. Moorpark Rd.  105		Thousand Oaks	91360	Every day	7:00 AM
+TO16A	[158567][93][28]	An Hour With Your Higer Power		Visions Meeting Hall	 2667 N. Moorpark Rd.  105		Thousand Oaks	91360	Sunday	7:00 AM
+TO16B	[158567][93][28]	Daily Meditation		Visions Meeting Hall	 2667 N. Moorpark Rd.  105		Thousand Oaks	91360	Monday	7:00 AM
+TO16C	[158567][93][28]	Eleventh Step	[C]	Visions Meeting Hall	 2667 N. Moorpark Rd.  105		Thousand Oaks	91360	Tuesday	7:00 AM
+TO16D	[158567][93][28]	Women's Everything Meeting	[W][CH][B]	Visions Meeting Hall	 2667 N. Moorpark Rd.  105		Thousand Oaks	91360	Tuesday	10:00 AM
+TO16E	[158567][93[28]	Tell it like it is…	[CH][B]	Visions Meeting Hall	 2667 N. Moorpark Rd.  105		Thousand Oaks	91360	Wednesday	7:00 AM
+TO16F	[158567][93][28]	Big Book Study	[C]	Visions Meeting Hall	 2667 N. Moorpark Rd.  105		Thousand Oaks	91360	Thursday	7:00 AM
+TO16G	[158567][93][28]	Promises		Visions Meeting Hall	 2667 N. Moorpark Rd.  105		Thousand Oaks	91360	Friday	7:00 AM
+TO16H	[158567][93][28]	Attitude Adjustment	[CH][B]	Visions Meeting Hall	 2667 N. Moorpark Rd.  105		Thousand Oaks	91360	Saturday	7:00 AM
+TO17	[162915][93][28]	Visions Noon Group	[SF]	Visions Meeting Hall	 2667 N. Moorpark Rd.  105		Thousand Oaks	91360	Every day	12:00 PM
+TO17 F	[1629][15][93][28]	Drop the Rock	[C][SF]	Visions Meeting Hall	 2667 N. Moorpark Rd.  105		Thousand Oaks	91360	Saturday	12:00 PM
+TO17A	[162915][93[28]	The Great Paradox	[SF]	Visions Meeting Hall	 2667 N. Moorpark Rd.  105		Thousand Oaks	91360	Sunday	12:00 PM
+TO17B	[162915][93][28]	TGIM	[CH][SF]	Visions Meeting Hall	 2667 N. Moorpark Rd.  105		Thousand Oaks	91360	Monday	12:00 PM
+TO17C	[162915][93][28]	High Noon	[SF]	Visions Meeting Hall	 2667 N. Moorpark Rd.  105		Thousand Oaks	91360	Tuesday	12:00 PM
+TO17D	[162915][93][28]	Noon Step Study	[SF]	Visions Meeting Hall	 2667 N. Moorpark Rd.  105		Thousand Oaks	91360	Wednesday	12:00 PM
+TO17E	[162915][93][28]	There is a Solution	[SF]	Visions Meeting Hall	 2667 N. Moorpark Rd.  105		Thousand Oaks	91360	Thursday	12:00 PM
+TO17F	[162915][93][28]	Happiness in Recovery	[SF]	Visions Meeting Hall	 2667 N. Moorpark Rd.  105		Thousand Oaks	91360	Friday	12:00 PM
+TO18	[158346][93][28]	Visions Evening Group		Visions Meeting Hall	 2667 N. Moorpark Rd.  105		Thousand Oaks	91360	Every day	6:00 PM
+TO18A	[158346][93][28]	Young Peoples' Meeting	[YP]	Visions Meeting Hall	 2667 N. Moorpark Rd.  105		Thousand Oaks	91360	Sunday	6:00 PM
+TO18B	[158346][93][28]	Fresh Start Candlelight	[C]	Visions Meeting Hall	 2667 N. Moorpark Rd.  105		Thousand Oaks	91360	Sunday	7:30 PM
+TO18C	[158346][93][28]	Sober Happy Hour	[C]	Visions Meeting Hall	 2667 N. Moorpark Rd.  105		Thousand Oaks	91360	Monday	6:00 PM
+TO18D	[158346][93][28]	Sober Happy Hour	[C]	Visions Meeting Hall	 2667 N. Moorpark Rd.  105		Thousand Oaks	91360	Tuesday	6:00 PM
+TO18E		Tuesday Night Dog Pound	[M][C][CH][B]	United Methodist Church	 1000 Janss Rd	 Dickerson Hall	Thousand Oaks	91360	Tuesday	7:30 PM
+TO18F	[158346][93][28]	Sober Happy Hour		Visions Meeting Hall	 2667 N. Moorpark Rd.  105		Thousand Oaks	91360	Wednesday	6:00 PM
+TO18G	[158346][93][28]	Sober Happy Hour	[C]	Visions Meeting Hall	 2667 N. Moorpark Rd.  105		Thousand Oaks	91360	Thursday	6:00 PM
+TO18H	[158346][93][28]	Big Book Study		Visions Meeting Hall	 2667 N. Moorpark Rd.  105		Thousand Oaks	91360	Friday	6:00 PM
+TO18I	[158346][93][28]	Saturday Night Speaker Meeting		Visions Meeting Hall	 2667 N. Moorpark Rd.  105		Thousand Oaks	91360	Saturday	7:30 PM
+TO18J		Saturday Nite-What to Do?	[H]	Visions Meeting Hall	 2667 N. Moorpark Rd.  105		Thousand Oaks	91360	Saturday	6:00 PM
+TO19	[157567][93][28]	"""Whatever"" Speaker Meeting"	[CH][B]	Visions Meeting Hall	 2667 N. Moorpark Rd.  105		Thousand Oaks	91360	Sunday	10:00 AM
+TO21	[121077][93][28]	Woman Who Care	[W][C]]	Visions Meeting Hall	 2667 N. Moorpark Rd.  105		Thousand Oaks	91360	Monday	8:00 PM
+TO22		Circle Group 1st Year Beginners		Visions Meeting Hall	 2667 N. Moorpark Rd.  105		Thousand Oaks	91360	Wednesday	7:30 PM
+TO24	[141094][93][28]	Knights of the Round Table	[M][H]	Conejo Valley Congregational Church	 750 Erbes Rd		Thousand Oaks	91362	Monday	6:30 PM
+TO25		Tuesday Night Venice Beach Group	[C]	Redeemer Luthern Church	 667 Camino Dos Rios		Thousand Oaks	91360	Tuesday	7:30 PM
+TO29		Vape Sober Happy Hour		Store Front	 1165 E. Thousand Oaks Blvd		Thousand Oaks	91362	Sunday	7:30 PM
+TO30		What The Big Book Says		Apartment Complex	 689 McCloud Ave.		Thousand Oaks	91360	Friday	7:00 PM
+TO31	[146194][93][28]	Attitude Adjustment Group	[C]	Emmanuel Presbyterian Church	 588 Camino Manzanas		Thousand Oaks	91360	Every day	6:45 AM
+TO31A	[146194][93][28]	Attitude Adjustment	[C]	Emmanuel Presbyterian Church	 588 Camino Manzanas		Thousand Oaks	91360	Sunday	6:45 AM
+TO31B	[146194][93][28]	Attitude Adjustment	[C]	Emmanuel Presbyterian Church	 588 Camino Manzanas		Thousand Oaks	91360	Monday	6:45 AM
+TO31C	[146194][93][28]	Attitude Adjustment	[C]	Emmanuel Presbyterian Church	 588 Camino Manzanas		Thousand Oaks	91360	Tuesday	6:45 AM
+TO31D	[146194][93][28]	Attitude Adjustment	[C]	Emmanuel Presbyterian Church	 588 Camino Manzanas		Thousand Oaks	91360	Wednesday	6:45 AM
+TO31E	[146194][93][28]	Attitude Adjustment	[C]	Emmanuel Presbyterian Church	 588 Camino Manzanas		Thousand Oaks	91360	Thursday	6:45 AM
+TO31F	[146194][93][28]	Attitude Adjustment	[C]	Emmanuel Presbyterian Church	 588 Camino Manzanas		Thousand Oaks	91360	Friday	6:45 AM
+TO31G	[146194][93][28]	Attitude Adjustment	[C][CH][B]	Emmanuel Presbyterian Church	 588 Camino Manzanas		Thousand Oaks	91360	Saturday	6:45 AM
+TO34		You Are Not Alone	[G][CH][B]	Office Space	 1408 E. Thousand Oaks Blvd		Thousand Oaks	91360	Saturday	6:30 PM
+VE02	[102375][93][13]	East End Ventura Group	[C][H]	St Paul's Episcopal Church	  3290 Loma Vista Rd		Ventura	93003	Monday	8:00 PM
+VE05	[102380][93][13]	Safety Valve Meeting	[H][CH][B]	Community Presbyterian Church	  1555 Poli Street		Ventura	93001	Saturday	12:00 PM
+VE07	[121239][93][13]	Downtowner's 12 & 12 Step Study		Ventura Meeting Hall	 120 S Fir St		Ventura	93001	Wednesday	12:00 PM
+VE08	[126507][93][13]	Early Bird Group	[H]	Western American Plaza	 56 East Main St	 Rm 108	Ventura	93001	Every day	6:45 AM
+VE08A	[126507][93][13]	Early Bird Group Spiritual Review	[H][CH][B]	Western American Plaza	 56 East Main St	 Rm 108	Ventura	93001	Sunday	6:45 AM
+VE08B	[126507][93][13]	Early Bird Group Open Discussion	[H][CH][B]	Western American Plaza	 56 East Main St	 Rm 108	Ventura	93001	Monday	6:45 AM
+VE08F	[126507][93][13]	Early Bird Group Open Discussion	[H][CH][B]	Western American Plaza	 56 East Main St	 Rm 108	Ventura	93001	Friday	6:45 AM
+VE08G	[126507][93][13]	"Early Bird Group""Questions About Sobriety"""	[H][CH][B]	Western American Plaza	 56 East Main St	 Rm 108	Ventura	93001	Saturday	6:45 AM
+VE09	[127280][93][13]	Here and Now	[C]	Ventura Meeting Hall	 120 S Fir St		Ventura	93001	Tuesday	12:00 PM
+VE10	[132336][93][13]	LGBT Candlelight Group		County Office	 24 East Main Street		Ventura	93001	Friday	8:00 PM
+VE12	[144149][93][13]	Hospital IV Meeting	[CH][B]	St Paul's Episcopal Church	  3290 Loma Vista Rd		Ventura	93003	Wednesday	8:00 PM
+VE13	[149122][93][13]	Back to Basics Men's Stag	[M]	Sacred Heart Catholic Church	  10800 Henderson Road		Ventura	93004	Thursday	8:00 PM
+VE14	[161582][93][13]	Downtowner's Group Spk Mtg		Ventura Meeting Hall	 120 S Fir St		Ventura	93001	Sunday	10:30 AM
+VE15	[161583][93][13]	Downtowner's Friday Noon Group		Ventura Meeting Hall	 120 S Fir St		Ventura	93001	Friday	12:00 PM
+VE16	[161584][93][13]	Here and Now	[C]	Ventura Meeting Hall	 120 S Fir St		Ventura	93001	Thursday	12:00 PM
+VE17	[165899][93][13]	Women's Group	[C][H]	Ventura Center for Spiritual Living	  101 S Laurel	 (at Santa Clara)	Ventura	93001	Friday	9:00 AM
+VE18A	[177009][93][13]	"I Can't We Can, Step Study"	[H]	St Paul's Episcopal Church	  3290 Loma Vista Rd		Ventura	93003	Sunday	8:00 PM
+VE18B	[177009][93][13]	I Can’t Together We Can-Candlelight	[H]	St Paul's Episcopal Church	  3290 Loma Vista Rd		Ventura	93003	Saturday	6:45 PM
+VE20	[601106][93][13]	Back to Basics Big Book Discussion	[C]	Community Presbyterian Church	  1555 Poli Street		Ventura	93001	Tuesday	8:00 PM
+VE21	[635202][93][13]	Discussion Group		Beth Torah Temple	  7620 Foothill Road	  (at Kimball)	Ventura	93003	Thursday	8:00 PM
+VE23	[159699][93][13]	East End Group (Speaker)	[CC]	Grace Church	 65 MacMillan Ave		Ventura	93001	Friday	8:00 PM
+VE24	[626293][93][13]	Women's Book Study	[W][C]	Ventura Center for Spiritual Living	  101 S Laurel	 (at Santa Clara)	Ventura	93001	Monday	9:00 AM
+VE25	[638559][93][13]	Keep it Simple Group		Ventura Center for Spiritual Living	  101 S Laurel	 (at Santa Clara)	Ventura	93001	Every day	7:00 AM
+VE25A	[638559][93][13]	Keep It Simple		Ventura Center for Spiritual Living	  101 S Laurel	 (at Santa Clara)	Ventura	93001	Sunday	7:00 AM
+VE25B	[638559][93][13]	Keep It Simple		Ventura Center for Spiritual Living	  101 S Laurel	 (at Santa Clara)	Ventura	93001	Monday	7:00 AM
+VE25C	[638559][93][13]	Keep It Simple		Ventura Center for Spiritual Living	  101 S Laurel	 (at Santa Clara)	Ventura	93001	Tuesday	7:00 AM
+VE25D	[638559][93][13]	Keep It Simple		Ventura Center for Spiritual Living	  101 S Laurel	 (at Santa Clara)	Ventura	93001	Wednesday	7:00 AM
+VE25E	[638559][93][13]	Keep It Simple		Ventura Center for Spiritual Living	  101 S Laurel	 (at Santa Clara)	Ventura	93001	Thursday	7:00 AM
+VE25F	[638559][93][13]	Keep It Simple		Ventura Center for Spiritual Living	  101 S Laurel	 (at Santa Clara)	Ventura	93001	Friday	7:00 AM
+VE25G	[638559][93][13]	Keep It Simple		Ventura Center for Spiritual Living	  101 S Laurel	 (at Santa Clara)	Ventura	93001	Saturday	7:00 AM
+VE29	[102378][93][13]	Men's Stag	[C][M]	Church of the Foothills	  6279 Foothill Road		Ventura	93003	Tuesday	8:00 PM
+VE34	[652997][93][13]	Women's Discussion Meeting	[W]	Ventura Center for Spiritual Living	  101 S Laurel	 (at Santa Clara)	Ventura	93001	Wednesday	9:00 AM
+VE36	[601107][93][13]	"""Not a Glum Lot"" Speaker"	[H]	College United Methodist Church	  16 Baylor Drive		Ventura	93003	Saturday	8:00 PM
+VE39	[600561][93][13]	Sobriety in the Park	[CH][B]	Plaza Park		  Santa Clara & Fir	Ventura	93001	Saturday	9:00 AM
+VE46		LGBT Candlelight Meeting	[M][W](G)	County Office	 24 East Main Street		Ventura	93001	Wednesday	7:00 PM
+VE62		Dry Wednesday		Ventura Meeting Hall	 120 S Fir St		Ventura	93001	Wednesday	7:00 PM
+VE63	[128562][93][13]	Downtowner's Big Bk Step Stdy Gp		Ventura Meeting Hall	 120 S Fir St		Ventura	93001	Monday	12:00 PM
+VE64	[163708][93][13]	Corner Group	[W][C][CH][B]	7th Day Adventist Church	 6300 Telephone RD		Ventura	93009	Tuesday	7:00 PM
+VE68	[650239][93][13]	No Frills Noon Meeting	[C][H]	Bible Fellowship Hall	 6950 Ralston St.	 Rm 300 (at Johnson)	Ventura	93003	Wednesday	12:00 PM
+VE70	[675747][93][13]	Road Narrows Group	[W][C]	Private Residence	 4053 Maple St		Ventura	93001	Sunday	10:30 AM
+VE72	[692305][93][13]	Sober View		Vista Del Mar	 801 Seneca	 (meets in main lobby area)	Ventura	93001	Monday	6:15 PM
+VE75		Allergic To…..	[C][M][H]	Bible Fellowship Hall	 6950 Ralston St	 (Building 300 Rm 301)	Ventura		Monday	5:30 PM
+VE77		High Nooner's 12-Step Study	[C]	Bible Fellowship Hall	 6950 Ralston St.	 Rm 300 (at Johnson)	Ventura	93003	Friday	12:00 PM
+VE79	[675590][93][13]	Friday Night Defuser		Community Presbyterian Church	  1555 Poli Street		Ventura	93001	Friday	6:30 PM
+VE80	[674125][93][13]	Downtown Young People Group		Ventura Center for Spiritual Living	  101 S Laurel	 (at Santa Clara)	Ventura	93001	Various	
+VE80A	[674125][93][13]	Downtown Young People	[YP]	Ventura Center for Spiritual Living	  101 S Laurel	 (at Santa Clara)	Ventura	93001	Wednesday	8:00 PM
+VE80B	[674125][93][13]	Downtown Young People Ask It Basket	[YP]	Ventura Center for Spiritual Living	  101 S Laurel	 (at Santa Clara)	Ventura	93001	Sunday	7:30 PM
+VE80D	[674125][93][13]	Thurs Nite Lit Study Downtown Young People's	[YP]	Ventura Center for Spiritual Living	  101 S Laurel	 (at Santa Clara)	Ventura	93001	Thursday	7:30 PM
+VE81		Daily Reflections		Ventura Meeting Hall	 120 S Fir St		Ventura	93001	Tuesday	6:00 PM
+VE85	[706708][93][13]	4544 Knuckleheads	[C][M]	Ventura Center for Spiritual Living	  101 S Laurel	 (at Santa Clara)	Ventura	93001	Sunday	5:30 PM
+VE86	[101728][93][13]	As Bill Sees It	[W][C][CH][B]	Bible Fellowship Hall	 6950 Ralston St	 In Pavilions Building Rm 2	Ventura		Monday	7:00 PM
+VE87	[703625][93][13]	Freedom Group		Veterans Home	 10900 Telephone Rd.		Ventura	93004	Wednesday	7:00 PM
+VE88		We Agnostics		Total Life Christian Center	 660 N. Ventura Ave		Ventura	93001	Thursday	7:00 PM
+VE89		Burning Desires		Private Residence	 1766 Swift Avenue		Ventura	93003	Saturday	8:00 PM
+VE90		Reflections IV-2		Ventura County Medical Center	  3291 Loma Vista Rd	 (Main Cafeteria)	Ventura	93003	Thursday	7:00 PM
+VE91		"Let's Talk About ""IT"""		Trinity Community Church	 3645 Telegraph Rd		Ventura	93003	Wednesday	6:00 PM
+VE92A		The Way Out		Mission Church	 2875 Elba St		Ventura	93003	Wednesday	5:30 PM
+VE93		Secular and Sober		Avenue Library	 606 N Ventura Avenue	 (Enter on Simpson]	Ventura	93001	Tuesday	6:30 PM
+WV03	[102325][93][28]	Fellowship Group (Speaker)	[H][CC][B]	Westminster Presbyterian Church	  32111 Watergate Road		Westlake Village	91361	Friday	8:00 PM
+WV04	[102328][93][28]	Sunday Night Speaker's Meeting	[CH][B]	Los Robles Regional Medical Center - East Campus	 150 Via Merida		Westlake Village	91362	Sunday	8:00 PM
+WV05	[118415][93][28]	Participation Meeting	[C][H]	Los Robles Regional Medical Center - East Campus	 150 Via Merida		Westlake Village	91362	Sunday	12:00 PM
+WV13	[635608][93][28]	Saturday Night Live	[H][CH][B]	Los Robles Regional Medical Center - East Campus	 150 Via Merida		Westlake Village	91362	Saturday	7:00 PM
+WV15		Baby Steps		Private Residence		 Contact Kathy Moms & Kids 805-732-3485	Westlake Village	91361	Thursday	10:00 AM
+WV20	[641273][93][28]	The Big Book Study (Rec.Rm.)	[C][H]	United Methodist Church	  1049 Westlake Blvd	 In Rec Room	Westlake Village	91361	Wednesday	7:30 PM
+WV23	[100803][93][28]	"Thursday Night 12 X 12 Step Study Group
+Westminister Presbyterian Church"	[C][H][B]	Westminster Presbyterian Church	  32111 Watergate Road		Westlake Village	91361	Thursday	7:30 PM
+WV29		Café AA Big Book Study		Westminster Presbyterian Church	  32111 Watergate Road		Westlake Village	91361	Saturday	8:30 AM
+WV31	[606993][93][28]	Friday Night Men's 12 & 12	[M][C]	United Methodist Church	  1049 Westlake Blvd	 In Rec Room	Westlake Village	91361	Friday	7:00 PM
+WV33		What Its Like Now		St. Maximilian Catholic Church	  5801 Kanan Rd	at Lindero Canyon	Westlake Village	91301	Friday	5:30 PM
+WV40		Thurday Night Rascal's Speaker Meeting		United Methodist Church	  1049 Westlake Blvd	 In Rec Room	Westlake Village	91361	Thursday	8:00 PM
+										
+										
