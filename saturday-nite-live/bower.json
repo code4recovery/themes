@@ -1,0 +1,21 @@
+{
+  "name": "www",
+  "version": "0.0.0",
+  "homepage": "https://github.com/intergroup/saturday-nite-live",
+  "authors": [
+    "Josh Reisner <josh@aasanjose.org>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "3.3.7",
+    "skrollr": "0.6.29",
+    "jquery-validate": "latest"
+  }
+}
