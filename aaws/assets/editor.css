@@ -1,7 +1,9 @@
-.editor-post-title__block .editor-post-title__input, .wp-block-heading {
-	font-family: 'Roboto Slab';
+.editor-post-title__block .editor-post-title__input,
+.wp-block-heading {
+  font-family: "Merriweather";
 }
 
-.edit-post-visual-editor, .edit-post-visual-editor p {
-	font-family: Roboto, -apple-system;
+.edit-post-visual-editor,
+.edit-post-visual-editor p {
+  font-family: Roboto, -apple-system;
 }
