@@ -1,80 +1,91 @@
 <?php
 
-//code to handle loading and displaying remote data 
+//code to handle loading and displaying remote data
 
-class ScheduleChanges {
+class ScheduleChanges
+{
 
-	//fetch data from remote, save to wp_options
-	public static function fetchData() {
-		//fetch JSON string response from server
-		if (!$response = wp_remote_retrieve_body(wp_remote_get('https://aasf.co/aasfmarin_changed_meetings_json.cfm'))) {
-			die('no response');
-		}
+    //fetch data from remote, save to wp_options
+    public static function fetchData()
+    {
+        //fetch JSON string response from server
+        if (!$response = wp_remote_retrieve_body(wp_remote_get('https://aasf.co/aasfmarin_changed_meetings_json.cfm', array(
+            'timeout' => 60,
+        )))) {
+            die('no response');
+        }
 
-		//convert to array
-		if (!$changes = json_decode($response)) {
-			die('invalid response');
-		}
+        //convert to array
+        if (!$changes = json_decode($response)) {
+            die('invalid response');
+        }
 
-		//trim array properties
-		$changes = array_map(function($change){
-			foreach ($change as $key => $value) {
-				$change->{$key} = trim($value);
-				if ($key == 'time' && $value == '11:59 PM') $change->time = 'Midnight';
-			}
-			return $change;
-		}, $changes);
+        //trim array properties
+        $changes = array_map(function ($change) {
+            foreach ($change as $key => $value) {
+                $change->{$key} = trim($value);
+                if ($key == 'time' && $value == '11:59 PM') {
+                    $change->time = 'Midnight';
+                }
 
-		//define a structure for the data
-		$framework = array(
-			'SF' => array(
-				'New' => array(),
-				'Revisions' => array(),
-				'Discontinued' => array(),
-			),
-			'Marin' => array(
-				'New' => array(),
-				'Revisions' => array(),
-				'Discontinued' => array(),
-			),
-		);
+            }
+            return $change;
+        }, $changes);
 
-		//attach data to structure
-		foreach ($changes as $change) {
-			if (array_key_exists($change->region, $framework) && array_key_exists($change->category, $framework[$change->region])) {
-				$framework[$change->region][$change->category][] = $change;
-			} else {
-				dd($change);
-			}
-		}
+        //define a structure for the data
+        $framework = array(
+            'SF' => array(
+                'New' => array(),
+                'Revisions' => array(),
+                'Discontinued' => array(),
+            ),
+            'Marin' => array(
+                'New' => array(),
+                'Revisions' => array(),
+                'Discontinued' => array(),
+            ),
+        );
 
-		//persist to options table
-		update_option('aasf_schedule_changes', $framework, false);
+        //attach data to structure
+        foreach ($changes as $change) {
+            if (array_key_exists($change->region, $framework) && array_key_exists($change->category, $framework[$change->region])) {
+                $framework[$change->region][$change->category][] = $change;
+            } else {
+                dd($change);
+            }
+        }
 
-		dd($framework);
-	}
+        //persist to options table
+        update_option('aasf_schedule_changes', $framework, false);
 
-	public static function displayData() {
-		//define strings
-		$strings = array(
-			'SF' => 'San Francisco',
-			'Marin' => 'Marin',
-			'New' => 'New Meetings',
-			'Revisions' => 'Meetings Recently Changed',
-			'Discontinued' => 'No Longer Meeting',
-		);
+        dd($framework);
+    }
 
-		//load from database
-		$framework = get_option('aasf_schedule_changes');
+    public static function displayData()
+    {
+        //define strings
+        $strings = array(
+            'SF' => 'San Francisco',
+            'Marin' => 'Marin',
+            'New' => 'New Meetings',
+            'Revisions' => 'Meetings Recently Changed',
+            'Discontinued' => 'No Longer Meeting',
+        );
 
-		//start output
-		$output = '';
+        //load from database
+        $framework = get_option('aasf_schedule_changes');
 
-		//append to output
-		foreach ($framework as $region => $categories) {
-			foreach ($categories as $category => $changes) {
-				if (!count($changes)) continue;
-				$output .= '<h3>' . $strings[$region] . ' - ' . $strings[$category] . '</h3>
+        //start output
+        $output = '';
+
+        //append to output
+        foreach ($framework as $region => $categories) {
+            foreach ($categories as $category => $changes) {
+                if (!count($changes)) {
+                    continue;
+                }
+
+                $output .= '<h3>' . $strings[$region] . ' - ' . $strings[$category] . '</h3>
 				<table>
 					<thead>
 						<tr>
@@ -87,8 +98,8 @@ class ScheduleChanges {
 						</tr>
 					</thead>
 					<tbody>';
-				foreach ($changes as $change) {
-					$output .= '<tr>
+                foreach ($changes as $change) {
+                    $output .= '<tr>
 						<td>' . $change->day . '</td>
 						<td>' . $change->time . '</td>
 						<td>' . $change->neighborhood . '</td>
@@ -96,15 +107,15 @@ class ScheduleChanges {
 						<td>' . $change->address . '<br>' . $change->city . '</td>
 						<td><strong>' . $change->designations . '</strong><br>' . $change->revision_note . '</td>
 					</tr>';
-				}
-				$output .= '</tbody>
+                }
+                $output .= '</tbody>
 				</table>';
-			}
-		}
+            }
+        }
 
-		return $output;
+        return $output;
 
-	}
+    }
 
 }
 
@@ -112,16 +123,15 @@ class ScheduleChanges {
 //ScheduleChanges::fetchData();
 
 //run import every hour
-add_action('aasf_schedule_changes', function(){
-	ScheduleChanges::fetchData();
+add_action('aasf_schedule_changes', function () {
+    ScheduleChanges::fetchData();
 });
 
 if (!wp_next_scheduled('aasf_schedule_changes')) {
-	wp_schedule_event(time(), 'hourly', 'aasf_schedule_changes');
+    wp_schedule_event(time(), 'hourly', 'aasf_schedule_changes');
 }
 
 //display via shortcode
 add_shortcode('schedule-changes', array('ScheduleChanges', 'displayData'));
 
 //cron
-
