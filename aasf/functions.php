@@ -13,6 +13,7 @@ if (function_exists('tsml_custom_types')) {
     tsml_custom_types(array(
         'H' => 'Chips',
         'BA' => 'Childcare',
+        'SEN' => 'Seniors',
     ));
 }
 
