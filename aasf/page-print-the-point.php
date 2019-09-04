@@ -29,6 +29,19 @@ $page = '
       header h1 { font-size: 2rem; margin: .5rem; }
       header h5 { margin: 0 0 1rem; }
       #Smallchat { display: none; }
+      article figure.wp-block-image {
+        display: block !important;
+        text-align: center;
+      }
+      article figure.wp-block-image img {
+        max-width: 100%;
+        max-height: 400px;
+        width: auto;
+        height: auto;
+      }
+      article figure.wp-block-image figcaption {
+        text-align: center;
+      }
     </style>
   </head>
   <body>
