@@ -72,3 +72,10 @@ add_filter('the_title', function($title, $id) {
 add_filter('woocommerce_thankyou_order_received_text', function($str, $order) {
     return 'Your contribution has been received. You should receive a confirmation email shortly.';
 }, 10, 2);
+
+//bisexual meeting type
+if (function_exists('tsml_custom_types')) {
+    tsml_custom_types(array(
+        'BS' => 'Bi-Sexual',
+    ));
+}
