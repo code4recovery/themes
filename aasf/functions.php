@@ -55,3 +55,14 @@ add_action('widgets_init', function () {
     ));
 
 }, 11);
+
+//random petaluma meeting wreaking havoc with google
+tsml_custom_addresses([
+    '15 Park Ave., Inverness, CA, 94937, USA' => [
+        'formatted_address' => '15 Park Ave, Inverness, CA 94937, USA',
+        'city' => 'Inverness',
+        'postal_code' => '94937',
+        'latitude' => 38.097210,
+        'longitude' => -122.853340,
+    ]
+]);
